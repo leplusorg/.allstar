@@ -1,4 +1,4 @@
-# Allstar configuration for GoogleContainerTools
+# Allstar configuration for Leplusorg
 
 [Allstar](https://github.com/ossf/allstar) is a security-policy GitHubApp. It is
 installed on this org, and this repository contains the configuration for that app. It
